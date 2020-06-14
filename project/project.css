@@ -1,0 +1,13 @@
+footer{border:1px solid gray; margin:5px; background-color:rgb(55,206,219);  padding:8px; width:1000px;}
+header{border:5px solid gray; margin:5px; background-color:rgb(53,221,57);  padding:8px; width:1000px;}
+aside{border:5px solid gray; margin:5px; background-color:rgb(34,240,189);  padding:8px; width:1000px;}
+nav{border:5px solid gray; margin:5px; background-color:blue;  padding:8px; width:1000px;}
+section{border:5px solid gray; margin:5px; background-color:green;  padding:8px; magin:5px; width:750px; float:left;}
+section section {width:725px; float:left; }
+aside {width:221px; float:left; line-height:30px; }
+footer {height:50px; clear:both; }
+nav ul {margin:0; padding:0;}
+nav ul li {display:inline; margin:5px;}
+aside ul {margin:0; padding:0;}
+aside ul li {display:block; margin:5px;}
+#img  gil{width:300px;height:200px;}
